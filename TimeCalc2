@@ -1,4 +1,4 @@
-public class TimeCalc{
+public class TimeCalc2{
     public static void main(String[] args) {
 	int a = Scanner(System.in);
 	int hr = a/3600;
