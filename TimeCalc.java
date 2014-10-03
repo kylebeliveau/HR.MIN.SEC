@@ -4,7 +4,7 @@ public class TimeCalc{
 	int hr = a%3600/60;
 	int min = hr%60;
 	int sec = min%60;
-	system.out.println(hr + "," + min "," + sec );
+	system.out.println(hr + "," + min + "," + sec );
 	}
 	
 }
